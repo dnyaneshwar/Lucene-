@@ -1,0 +1,1 @@
+This a lucene sample program which just add the some docs and then search some text in it.
